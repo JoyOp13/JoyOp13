@@ -5,7 +5,7 @@ I Designed Forum Website<br/>
 I'm Good At Problem Solving <br/>
 
 # 💫 About Me:
-🔭 I’m currently working on Java Full Stack <br>💬 Ask me about Web Development <br>📬 How To Reach Me <br>       patiljay7545@gmail.com<br>
+🔭 I’m currently working on Java Full Stack <br>💬 Ask me about Web Development <br>📬 How To Reach Me <br> patiljay7545@gmail.com<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaypatil_0013) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-patil-1497252a5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@1113__JAY) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patiljay7545@gmail.com) 
